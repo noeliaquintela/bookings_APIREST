@@ -19,7 +19,7 @@ Antes de ejecutar la aplicación, asegúrate de tener instalado lo siguiente:
 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/diegocidm4/bookings_APIREST.git
+git clone https://github.com/noeliaquintela/bookings_APIREST.git
 cd bookings_APIREST
 ```
 
